@@ -1,5 +1,11 @@
 # This is a basic README file
 
+This work was from a channel 9 course on GitHub here : 
+
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Git-Fundamentals/player
+
+<img src="images/Channel 9 course/Course Header.png"></img>
+
 ---
 
 # This is a <h1> tag
@@ -27,7 +33,6 @@ Some text goes here explaining what this repo is about ...
 
 ## Images :
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo]<img src="images/GitHubLogos/Octocats/Octocat/Octocat.jpg" width="200">
 
 ~~this~~ is a ~strikethrough~
