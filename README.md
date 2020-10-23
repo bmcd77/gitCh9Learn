@@ -4,7 +4,7 @@ This work was from a channel 9 course on GitHub here :
 
 https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Git-Fundamentals/player
 
-<img src="images/Channel 9 course/Course Header.png"></img>
+<img src="images/Channel 9 course/Course Header.png" width=500></img>
 
 ---
 
